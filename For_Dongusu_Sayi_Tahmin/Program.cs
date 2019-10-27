@@ -11,7 +11,7 @@ namespace For_Dongusu_Sayi_Tahmin
     {
         static void Main(string[] args)
         {
-            int sayi =-1, rastgele;
+            int sayi, rastgele;
             Random rnd = new Random();
             rastgele = rnd.Next(1, 100);
 
