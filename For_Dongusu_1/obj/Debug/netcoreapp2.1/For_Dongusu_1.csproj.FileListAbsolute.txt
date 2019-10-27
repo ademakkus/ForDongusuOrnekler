@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\bin\Debug\netcoreapp2.1\For_Dongusu_1.deps.json
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\bin\Debug\netcoreapp2.1\For_Dongusu_1.runtimeconfig.json
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\bin\Debug\netcoreapp2.1\For_Dongusu_1.runtimeconfig.dev.json
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\bin\Debug\netcoreapp2.1\For_Dongusu_1.dll
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\bin\Debug\netcoreapp2.1\For_Dongusu_1.pdb
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\obj\Debug\netcoreapp2.1\For_Dongusu_1.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\obj\Debug\netcoreapp2.1\For_Dongusu_1.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\obj\Debug\netcoreapp2.1\For_Dongusu_1.AssemblyInfoInputs.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\obj\Debug\netcoreapp2.1\For_Dongusu_1.AssemblyInfo.cs
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\obj\Debug\netcoreapp2.1\For_Dongusu_1.dll
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_1\obj\Debug\netcoreapp2.1\For_Dongusu_1.pdb

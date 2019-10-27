@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Sayi_Tahmin\bin\Debug\For_Dongusu_Sayi_Tahmin.exe.config
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Sayi_Tahmin\bin\Debug\For_Dongusu_Sayi_Tahmin.exe
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Sayi_Tahmin\bin\Debug\For_Dongusu_Sayi_Tahmin.pdb
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Sayi_Tahmin\obj\Debug\For_Dongusu_Sayi_Tahmin.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Sayi_Tahmin\obj\Debug\For_Dongusu_Sayi_Tahmin.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Sayi_Tahmin\obj\Debug\For_Dongusu_Sayi_Tahmin.exe
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Sayi_Tahmin\obj\Debug\For_Dongusu_Sayi_Tahmin.pdb

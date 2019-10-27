@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mypc\\Source\\Repos\\ForDongusuOrnekler\\For_Dongusu_1\\For_Dongusu_1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mypc\\Source\\Repos\\ForDongusuOrnekler\\For_Dongusu_1\\For_Dongusu_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mypc\\Source\\Repos\\ForDongusuOrnekler\\For_Dongusu_1\\For_Dongusu_1.csproj",
+        "projectName": "For_Dongusu_1",
+        "projectPath": "C:\\Users\\mypc\\Source\\Repos\\ForDongusuOrnekler\\For_Dongusu_1\\For_Dongusu_1.csproj",
+        "packagesPath": "C:\\Users\\mypc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mypc\\Source\\Repos\\ForDongusuOrnekler\\For_Dongusu_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mypc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

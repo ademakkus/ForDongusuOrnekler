@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Armstrong_Sayisi\bin\Debug\For_Dongusu_Armstrong_Sayisi.exe.config
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Armstrong_Sayisi\bin\Debug\For_Dongusu_Armstrong_Sayisi.exe
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Armstrong_Sayisi\bin\Debug\For_Dongusu_Armstrong_Sayisi.pdb
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Armstrong_Sayisi\obj\Debug\For_Dongusu_Armstrong_Sayisi.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Armstrong_Sayisi\obj\Debug\For_Dongusu_Armstrong_Sayisi.exe
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Armstrong_Sayisi\obj\Debug\For_Dongusu_Armstrong_Sayisi.pdb

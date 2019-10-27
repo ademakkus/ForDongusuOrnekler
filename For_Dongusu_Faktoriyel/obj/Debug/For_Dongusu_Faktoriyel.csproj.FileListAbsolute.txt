@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Faktoriyel\bin\Debug\For_Dongusu_Faktoriyel.exe.config
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Faktoriyel\bin\Debug\For_Dongusu_Faktoriyel.exe
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Faktoriyel\bin\Debug\For_Dongusu_Faktoriyel.pdb
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Faktoriyel\obj\Debug\For_Dongusu_Faktoriyel.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Faktoriyel\obj\Debug\For_Dongusu_Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Faktoriyel\obj\Debug\For_Dongusu_Faktoriyel.exe
+C:\Users\mypc\source\repos\Donguler\For_Dongusu_Faktoriyel\obj\Debug\For_Dongusu_Faktoriyel.pdb
